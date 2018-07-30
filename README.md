@@ -1,6 +1,7 @@
 # Curso   
 https://www.schoolofnet.com/curso-pwa-com-vuejs/
 
+Neste curso, você conhecerá as bases de um Progressive Web app. Apresentaremos o Service Worker e como criá-lo para responder com arquivos salvos em cache, em vez de utilizar a requisição real para disponibilizar o projeto criado com Vue, mesmo quando estivermos offline. Ensinaremos como configurar um arquivo de manifesto para dispositivos móveis e como usar o Firebase e um Service Worker para entregar notificações, quando o usuário não estiver com o site aberto. Faremos tudo isso utilizando o Vue-cli.
 
 # check-list
 
@@ -56,3 +57,6 @@ CHAVE_DO_SERVIDOR = https://console.firebase.google.com/project/
 
 ### Caso não queira usar o PostMan, e já criar um servidor direto, tem um carinha bem simples em php, q simplesmente precisa enviar os registration_ids em forma de ID   
 https://github.com/mattg888/GCM-PHP-Server-Push-Message
+
+Certificado kkkk:
+https://github.com/gabrieldarezzo/sot-vue-pwa/blob/master/doc/certificate-pwa-com-vuejs.jpg
